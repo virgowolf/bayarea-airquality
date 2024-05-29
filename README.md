@@ -3,7 +3,7 @@
 ## POLLUTION AND INCOME ANALYSIS PROJECT ##
 
 ### OVERVIEW & PURPOSE ###
-This project aims to analyze the relationship between pollution levels and median income across various cities in the San Francisco Bay Area. The goal is to provide visual insights into how different pollutants vary over time, using the year 2020 as our sample frame, and examine how these variations have an inverse relationship with income levels in those cities. The project utilizes data visualizations to tell a compelling story, focusing on key pollutants such as Carbon, Nitrogen, Ozone, PM10, and PM25.
+This project aims to analyze the relationship between pollution levels and median income across various cities in the San Francisco Bay Area. The goal is to provide visual insights into how different pollutants vary over time, using the year 2020 as our sample frame, and examine the relationship between pollution spike locations and income levels for a given city. The project utilizes data visualizations to tell a compelling story, focusing on key pollutants such as Carbon, Nitrogen, Ozone, PM10, and PM25.
 The finished product is an interactive and user-friendly website embedded with a Flask app and Leaflet map. Website visitors can visualize the monthly variations in pollution levels across different cities, and analyze the correlation between pollution levels and median income.
 
 ### DATA SOURCES ###
@@ -19,7 +19,6 @@ Grouping the data by date and pollutant, and calculating the maximum values for 
 
 ### INSTRUCTIONS FOR USE ###
 Required Python libraries: pandas, plotly, seaborn, requests (for API data pull)
-# Running the Project
 - Clone the repository to your local machine.
 - Ensure you have the necessary CSV files in the output_data directory.
 - Run the ETL file in Python
