@@ -38,7 +38,7 @@ Transparency: Providing clear references to all data sources and external code u
 
 ### REFERENCES ###
 Data Sources: 
-- https://aqs.epa.gov/aqsweb/documents/data_api.html
+- API data pull for daily max pollution tracked by the EPA: https://aqs.epa.gov/aqsweb/documents/data_api.html
 - EPA Facility Level Information on Greenhouse Gases: https://ghgdata.epa.gov/ghgp/main.do
 - GeoJASON file converter: https://mygeodata.cloud/converter/shp-to-geojson
 - ASC Census data on income: https://vitalsigns.mtc.ca.gov/indicators/income
