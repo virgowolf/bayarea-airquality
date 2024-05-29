@@ -1,9 +1,8 @@
-CREATE TABLE income_carbon_merged_table (
+CREATE TABLE carbon (
     city_index INT,
-	city VARCHAR(100),
-    month DATE,
-    carbon_max NUMERIC,
-	median_income_2020 NUMERIC,
-	PRIMARY KEY (city, city_index, month),
-	FOREIGN KEY (city, city_index, month) REFERENCES city_master_table(city, city_index, month)
+    city VARCHAR(100),
+    carbon_month VARCHAR(30),
+    carbon_max DEC,
+    median_income_2020 DEC,
+    PRIMARY KEY (city, city_index, carbon_month)
 );

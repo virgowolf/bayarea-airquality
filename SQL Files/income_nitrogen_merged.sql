@@ -1,9 +1,8 @@
-CREATE TABLE income_nitrogen_merged_table (
+CREATE TABLE nitrogen (
     city_index INT,
-	city VARCHAR(100),
-    month DATE,
-    nitrogen_max NUMERIC,
-	median_income_2020 NUMERIC,
-	PRIMARY KEY (city, city_index, month),
-	FOREIGN KEY (city, city_index, month) REFERENCES city_master_table(city, city_index, month)
+    city VARCHAR(100),
+    nitrogen_month VARCHAR(30),
+    nitrogen_max DEC,
+    median_income_2020 DEC,
+    PRIMARY KEY (city, city_index, nitrogen_month)
 );

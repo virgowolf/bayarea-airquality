@@ -1,9 +1,8 @@
-CREATE TABLE income_pm25_merged_table (
+CREATE TABLE pm25 (
     city_index INT,
-	city VARCHAR(100),
-    month DATE,
-    pm25_max NUMERIC,
-	median_income_2020 NUMERIC,
-	PRIMARY KEY (city, city_index, month),
-	FOREIGN KEY (city, city_index, month) REFERENCES city_master_table(city, city_index, month)
+    city VARCHAR(100),
+    pm25_month VARCHAR(30),
+    pm25_max DEC,
+    median_income_2020 DEC,
+    PRIMARY KEY (city, city_index, pm25_month)
 );
