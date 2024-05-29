@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Air Quality</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+
+
+<body style="background-color: rgb(0,139,139);">
+  
+  <div class="container">
+    <div class="row">
+        <div class="card card-body bg-light" style="color: rgb(136, 0, 255); font-family: cursive;">
+            <h6 style = "font-size: 2vw; text-align: center;">Pollutant Name:</h6> 
+            <select style = "width: 40%; align-self: center;" id="selDataset" onchange="optionChanged(this.value)"></select>          
+        </div>
+        <div class = "card card-body bg-light" style="color: rgb(136, 0, 255); font-family: cursive;"> 
+          <h6 style = "font-size: 2vw; text-align: center;"> Date: </h6>
+          <select style="width: 40%; align-self: center;" id="selData"
+          onchange="optionChanged(this.value)"></select>
+        </div> 
+
+    </div>
+    <br>
+    <div class="row">
+      <div class="col-md-3">
+        
+            <img src="{{ url_for('static', filename='images/map.png') }}" alt="Line Graph" style="height: 400px; width: 550px; position: relative; left: -100px;">
+          
+        <br>
+        <div class="card card-primary">
+          <img src="{{ url_for('static', filename='images/linegraph.png') }}" alt="Line Graph" style="height: 500px; width: 1300px;position: relative; left:-75px;">
+          </div>
+      </div>  
+      
+      <div class="col-md-9">
+        <div id="bar" style = "width: 750px; height: 400px; position: relative; left: 200px;"></div>
+        
+        
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="col-md-12">
+        
+      </div>
+    </div>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="{{ url_for('static', filename='js/plot.js') }}"></script>
+  
+
+
+</body>
+
+</html>
