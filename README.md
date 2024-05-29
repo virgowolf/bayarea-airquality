@@ -40,5 +40,7 @@ Transparency: Providing clear references to all data sources and external code u
 Data Sources: 
 - API data pull for daily max pollution tracked by the EPA: https://aqs.epa.gov/aqsweb/documents/data_api.html
 - EPA Facility Level Information on Greenhouse Gases: https://ghgdata.epa.gov/ghgp/main.do
-- GeoJASON file converter: https://mygeodata.cloud/converter/shp-to-geojson
+- California cities shapefile: https://data.ca.gov/dataset/ca-geographic-boundaries/resource/436fc714-831c-4070-b44b-b06dcde6bf18
+- Shapefile to geoJSON converter: https://quickmaptools.com/shp-to-geojson
+- GeoJSON coordinates converter: https://mygeodata.cloud/converter/geojson-to-latlong
 - ASC Census data on income: https://vitalsigns.mtc.ca.gov/indicators/income
