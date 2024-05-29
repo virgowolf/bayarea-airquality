@@ -19,14 +19,14 @@ Grouping the data by date and pollutant, and calculating the maximum values for 
 
 ### INSTRUCTIONS FOR USE ###
 Required Python libraries: pandas, plotly, seaborn, requests (for API data pull)
-Running the Project
-Clone the repository to your local machine.
-Ensure you have the necessary CSV files in the output_data directory.
-Run the ETL file in Python
-Run the Plotly file
-Run the SQL code in  the SQL files folder
-Run the JavaScript files in the map data folder
-Run the Flask code
+# Running the Project
+- Clone the repository to your local machine.
+- Ensure you have the necessary CSV files in the output_data directory.
+- Run the ETL file in Python
+- Run the Plotly file
+- Run the SQL code in  the SQL files folder
+- Run the JavaScript files in the map data folder
+- Run the Flask code
 
 ### INTERACTION ###
 Visitors can select a city and pollution type using the respective dropdown menus. Upon selecting each of these parameters, they will see an interactive bar as well as a line graph showing monthly spikes by city and pollutant type. Additionally, they may interact with the Leafet map by exploring the sites of the largest Greenhouse Gas emitters and noting their relative proximity to high Air Quality Index (AQI) areas.
@@ -38,7 +38,8 @@ Data Accuracy: Using reliable and accurate data sources to ensure the integrity 
 Transparency: Providing clear references to all data sources and external code used.
 
 ### REFERENCES ###
-Data Sources: https://aqs.epa.gov/aqsweb/documents/data_api.html
-EPA Facility Level Information on Greenhouse Gases: https://ghgdata.epa.gov/ghgp/main.do
-GeoJASON file converter: https://mygeodata.cloud/converter/shp-to-geojson
-ASC Census data on income: https://vitalsigns.mtc.ca.gov/indicators/income
+Data Sources: 
+- https://aqs.epa.gov/aqsweb/documents/data_api.html
+- EPA Facility Level Information on Greenhouse Gases: https://ghgdata.epa.gov/ghgp/main.do
+- GeoJASON file converter: https://mygeodata.cloud/converter/shp-to-geojson
+- ASC Census data on income: https://vitalsigns.mtc.ca.gov/indicators/income
