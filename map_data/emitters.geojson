@@ -1,0 +1,710 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.6049,
+                    37.7965
+                ]
+            },
+            "properties": {
+                "name": "Mariposa Energy, LLC",
+                "parentCompanies": "MITSUBISHI CORP (AMERICAS) (100%)",
+                "CO2e": 61710
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1326,
+                    37.6341
+                ]
+            },
+            "properties": {
+                "name": "Russell City Energy Company LLC",
+                "parentCompanies": "VOLT PARENT LP (75%); GENERAL ELECTRIC CO (25%)",
+                "CO2e": 429884
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.456385,
+                    37.762505
+                ]
+            },
+            "properties": {
+                "name": "University of California, San Francisco - Parnassus Campus",
+                "parentCompanies": "STATE OF CALIFORNIA (100%)",
+                "CO2e": 52807
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8439,
+                    38.0167
+                ]
+            },
+            "properties": {
+                "name": "Delta Energy Center, LLC",
+                "parentCompanies": "VOLT PARENT LP (100%)",
+                "CO2e": 1482392
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8708,
+                    38.03
+                ]
+            },
+            "properties": {
+                "name": "Los Medanos Energy Center, LLC",
+                "parentCompanies": "VOLT PARENT LP (100%)",
+                "CO2e": 1257234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.214441,
+                    38.055905
+                ]
+            },
+            "properties": {
+                "name": "CROCKETT COGENERATION PLANT",
+                "parentCompanies": "CROCKETT COGENERATION A CALIFORNIA LP (100%)",
+                "CO2e": 594330
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.115392,
+                    38.016594
+                ]
+            },
+            "properties": {
+                "name": "MARTINEZ REFINING COMPANY LLC",
+                "parentCompanies": "MARTINEZ REFINING CO LLC (100%)",
+                "CO2e": 3228240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.07594,
+                    38.032767
+                ]
+            },
+            "properties": {
+                "name": "AIR PRODUCTS & CHEMICALS INC MARTINEZ WATERFRONT ROAD",
+                "parentCompanies": "AIR PRODUCTS & CHEMICALS INC (100%)",
+                "CO2e": 526495
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.067222,
+                    38.026667
+                ]
+            },
+            "properties": {
+                "name": "AIR PRODUCTS & CHEMICALS, INC, Tesoro Martinez",
+                "parentCompanies": "AIR PRODUCTS & CHEMICALS INC (100%)",
+                "CO2e": 87289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.381592,
+                    37.623908
+                ]
+            },
+            "properties": {
+                "name": "United Airlines, Inc.",
+                "parentCompanies": "UNITED CONTINENTAL HOLDINGS INC (100%)",
+                "CO2e": 26884
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.396453,
+                    37.938779
+                ]
+            },
+            "properties": {
+                "name": "CHEVRON PRODS.CO. RICHMOND REFY",
+                "parentCompanies": "CHEVRON CORP (100%)",
+                "CO2e": 4136302
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37822,
+                    37.65701
+                ]
+            },
+            "properties": {
+                "name": "GENENTECH INCORPORATED",
+                "parentCompanies": "ROCHE HOLDINGS INC (100%)",
+                "CO2e": 29401
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.256895,
+                    38.047952
+                ]
+            },
+            "properties": {
+                "name": "AIR LIQUIDE LARGE INDUSTRIES US LP - RODEO HYDROGEN PLANT",
+                "parentCompanies": "AMERICAN AIR LIQUIDE HOLDINGS INC (100%)",
+                "CO2e": 881232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.19347,
+                    37.71447
+                ]
+            },
+            "properties": {
+                "name": "WASTE MANAGEMENT INC Oyster Bay",
+                "parentCompanies": "WASTE MANAGEMENT INC (100%)",
+                "CO2e": 2105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40841,
+                    37.78203
+                ]
+            },
+            "properties": {
+                "name": "ENERGY CENTER SAN FRANCISCO",
+                "parentCompanies": "CLEARWAY ENERGY GROUP LLC (100%)",
+                "CO2e": 49264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.06579,
+                    38.02176
+                ]
+            },
+            "properties": {
+                "name": "MARTINEZ COGEN LIMITED PARTNER",
+                "parentCompanies": "FOSTER WHEELER POWER SYSTEMS INC (50.5%); GENERAL ELECTRIC CO (49.5%)",
+                "CO2e": 320888
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.941018,
+                    38.006584
+                ]
+            },
+            "properties": {
+                "name": "KELLER CANYON LANDFILL",
+                "parentCompanies": "REPUBLIC SERVICES INC (100%)",
+                "CO2e": 123744
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.85565,
+                    38.02305
+                ]
+            },
+            "properties": {
+                "name": "USS-UPI, LLC",
+                "parentCompanies": "US STEEL CORP (100%)",
+                "CO2e": 35226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.04237,
+                    37.60599
+                ]
+            },
+            "properties": {
+                "name": "UNITED STATES PIPE & FOUNDRY CO LLC",
+                "parentCompanies": "FORTERRA US HOLDINGS LLC (100%)",
+                "CO2e": 40806
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39604,
+                    37.79134
+                ]
+            },
+            "properties": {
+                "name": "PACIFIC GAS AND ELECTRIC COMPANY",
+                "parentCompanies": "PG&E CORP (100%)",
+                "CO2e": 281735
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8453,
+                    37.9875
+                ]
+            },
+            "properties": {
+                "name": "CONTRA COSTA SANITARY LANDFILL",
+                "parentCompanies": "TRC SOLUTIONS INC (100%)",
+                "CO2e": 16915
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2532,
+                    38.0436
+                ]
+            },
+            "properties": {
+                "name": "SAN FRANCISCO REFINERY AT RODEO",
+                "parentCompanies": "PHILLIPS 66 (100%)",
+                "CO2e": 1308636
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.7229,
+                    37.7531
+                ]
+            },
+            "properties": {
+                "name": "VASCO ROAD LANDFILL",
+                "parentCompanies": "REPUBLIC SERVICES INC (100%)",
+                "CO2e": 31559
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.411,
+                    37.4992
+                ]
+            },
+            "properties": {
+                "name": "Ox Mountain Sanitary Landfill",
+                "parentCompanies": "REPUBLIC SERVICES INC (100%)",
+                "CO2e": 143584
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.064181,
+                    38.025314
+                ]
+            },
+            "properties": {
+                "name": "Martinez Renewable Fuel Facility",
+                "parentCompanies": "MARATHON PETROLEUM CORP (100%)",
+                "CO2e": 776026
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.7592,
+                    38.0167
+                ]
+            },
+            "properties": {
+                "name": "PG&E GATEWAY GENERATING STATION",
+                "parentCompanies": "PG&E CORP (100%)",
+                "CO2e": 1143646
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56884,
+                    38.15728
+                ]
+            },
+            "properties": {
+                "name": "REDWOOD LANDFILL",
+                "parentCompanies": "WASTE MANAGEMENT INC (100%)",
+                "CO2e": 101985
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.682053,
+                    37.723116
+                ]
+            },
+            "properties": {
+                "name": "Altamont Landfill & Resource Recovery Facility",
+                "parentCompanies": "WASTE MANAGEMENT INC (100%)",
+                "CO2e": 166423
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.855352,
+                    38.023129
+                ]
+            },
+            "properties": {
+                "name": "Corteva agriscience - Pittsburg Operations",
+                "parentCompanies": "CORTEVA INC (100%)",
+                "CO2e": 40856
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.98914,
+                    37.49548
+                ]
+            },
+            "properties": {
+                "name": "TRI-CITIES RECYCLING",
+                "parentCompanies": "WASTE MANAGEMENT INC (100%)",
+                "CO2e": 5771
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.022317,
+                    37.795963
+                ]
+            },
+            "properties": {
+                "name": "745 San Joaquin Basin Chevron USA Inc.",
+                "parentCompanies": "CHEVRON CORP (100%)",
+                "CO2e": 12725
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.022317,
+                    37.795963
+                ]
+            },
+            "properties": {
+                "name": "Chevron MCA 430 Permian Basin",
+                "parentCompanies": "CHEVRON CORP (100%)",
+                "CO2e": 242500
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.022317,
+                    37.795963
+                ]
+            },
+            "properties": {
+                "name": "San Juan Basin",
+                "parentCompanies": "ENDURING RESOURCES LLC (100%)",
+                "CO2e": 70512
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39604,
+                    37.79134
+                ]
+            },
+            "properties": {
+                "name": "Pacific Gas and Electric Company (PG&E) - SF6 Emissions",
+                "parentCompanies": "PG&E CORP (100%)",
+                "CO2e": 27337
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.79162,
+                    38.0134
+                ]
+            },
+            "properties": {
+                "name": "Georgia-Pacific Gypsum LLC",
+                "parentCompanies": "KOCH INDUSTRIES INC (100%)",
+                "CO2e": 41707
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.76463,
+                    38.01231
+                ]
+            },
+            "properties": {
+                "name": "Marsh Landing Generating Station",
+                "parentCompanies": "CLEARWAY ENERGY INC (100%)",
+                "CO2e": 163981
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.94826,
+                    37.49629
+                ]
+            },
+            "properties": {
+                "name": "Tesla, Inc.",
+                "parentCompanies": "TESLA INC (100%)",
+                "CO2e": 28076
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.178049,
+                    37.457173
+                ]
+            },
+            "properties": {
+                "name": "SRI International Cogeneration Project",
+                "parentCompanies": "SRI INTERNATIONAL (100%)",
+                "CO2e": 24596
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9814354,
+                    37.7624642
+                ]
+            },
+            "properties": {
+                "name": "San Joaquin Basin Gathering & Boosting - Chevron USA Inc.",
+                "parentCompanies": "CHEVRON CORP (100%)",
+                "CO2e": 2043460
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9604161,
+                    37.75900999
+                ]
+            },
+            "properties": {
+                "name": "Coastal Basin Gathering & Boosting - Chevron USA Inc.",
+                "parentCompanies": "CHEVRON CORP (100%)",
+                "CO2e": 178482
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.022317,
+                    37.795963
+                ]
+            },
+            "properties": {
+                "name": "Chevron MCA 260 East Texas Basin Gathering and Boosting",
+                "parentCompanies": "CHEVRON CORP (100%)",
+                "CO2e": 28029
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.022317,
+                    37.795963
+                ]
+            },
+            "properties": {
+                "name": "Chevron MCA 430 Permian Basin Gathering and Boosting",
+                "parentCompanies": "CHEVRON CORP (100%)",
+                "CO2e": 868084
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.022317,
+                    37.795963
+                ]
+            },
+            "properties": {
+                "name": "Chevron MCA 595 Piceance Basin Gathering and Boosting",
+                "parentCompanies": "CHEVRON CORP (100%)",
+                "CO2e": 26327
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39604,
+                    37.79134
+                ]
+            },
+            "properties": {
+                "name": "PG&E Transmission Blowdown",
+                "parentCompanies": "PG&E CORP (100%)",
+                "CO2e": 105020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37299,
+                    37.91803
+                ]
+            },
+            "properties": {
+                "name": "Gold Bond - RIC Plant",
+                "parentCompanies": "National Gypsum CO (100%)",
+                "CO2e": 24969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265978,
+                    37.871889
+                ]
+            },
+            "properties": {
+                "name": "UC Berkeley",
+                "parentCompanies": "STATE OF CALIFORNIA (100%)",
+                "CO2e": 124269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.02619,
+                    37.528661
+                ]
+            },
+            "properties": {
+                "name": "PABCO Building Products",
+                "parentCompanies": "PACIFIC COAST BUILDING PRODUCTS INC (100%)",
+                "CO2e": 29031
+            }
+        }
+    ]
+}
