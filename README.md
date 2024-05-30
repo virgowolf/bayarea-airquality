@@ -19,14 +19,14 @@ Grouping the data by date and pollutant, and calculating the maximum values for 
 
 ### INSTRUCTIONS FOR USE ###
 Required Python libraries: pandas, Plotly, seaborn, requests (for API data pull)
-Required apps: Jupyter Lab, Leaflet, Pg Admin/PostgreSQL, Flask, and Leaflet
-- Clone the repository to your local machine.
-- Ensure you have the necessary csv files in the output_data directory.
-- Run the ETL file in Python
-- Run the Plotly file
-- Run the SQL code in  the SQL files folder
-- Run the JavaScript files in the map data folder
-- Run the Flask code
+- Required apps: Jupyter Lab, Leaflet, Pg Admin/PostgreSQL, Flask, and Leaflet
+1 - Clone the repository to your local machine.
+2 - Ensure you have the necessary csv files in the output_data directory.
+3 - Run the ETL file in Python
+4 - Run the Plotly file
+5 - Run the SQL code in  the SQL files folder
+6 - Run the JavaScript files in the map data folder
+7 - Run the Flask code
 - Additional library: Anime.js was used for webpage animation. Users can include this JavaScript library in their web applications using: <script src = "https://cdn.jsdelivr.net/npm/animejs/lib/anime.min.js"> </script>
 
 ### INTERACTION ###
