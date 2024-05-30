@@ -11,21 +11,23 @@ Data were extracted using an API key to access Environmental Protection Agency (
 The EPA_datapull.ipynb notebook documents the process of extracting data from the EPA API. This involves pulling pollution data for various pollutants, including Carbon, Nitrogen, Ozone, PM10, and PM25. The code for the ETL process is included in the ETL_code.ipynb notebook.
 The ETL process includes the following:
 Reading data from CSV files
-Converting date columns to datetime format
+Converting date columns to DateTime format
 Renaming columns for consistency
 Adding pollutant labels to each dataset
 Concatenating all datasets into a single DataFrame
 Grouping the data by date and pollutant, and calculating the maximum values for each group
 
 ### INSTRUCTIONS FOR USE ###
-Required Python libraries: pandas, plotly, seaborn, requests (for API data pull)
+Required Python libraries: pandas, Plotly, seaborn, requests (for API data pull)
+Required apps: Jupyter Lab, Leaflet, Pg Admin/PostgreSQL, Flask, and Leaflet
 - Clone the repository to your local machine.
-- Ensure you have the necessary CSV files in the output_data directory.
+- Ensure you have the necessary csv files in the output_data directory.
 - Run the ETL file in Python
 - Run the Plotly file
 - Run the SQL code in  the SQL files folder
 - Run the JavaScript files in the map data folder
 - Run the Flask code
+- Additional library: Anime.js was used for webpage animation. Users can include this JavaScript library in their web applications using: <script src = "https://cdn.jsdelivr.net/npm/animejs/lib/anime.min.js"> </script>
 
 ### INTERACTION ###
 Visitors can select a city and pollution type using the respective dropdown menus. Upon selecting each of these parameters, they will see an interactive bar as well as a line graph showing monthly spikes by city and pollutant type. Additionally, they may interact with the Leafet map by exploring the sites of the largest Greenhouse Gas emitters and noting their relative proximity to high Air Quality Index (AQI) areas.
